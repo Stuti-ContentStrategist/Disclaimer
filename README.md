@@ -2,36 +2,50 @@
 
 ### 🎯 Purpose of This Documentation
 
-The **CyberShield Security Suite SDK Documentation** is a **fictional project** created by **Stuti Sanghvi** for **portfolio and educational purposes**.
+The **CyberShield Security Suite SDK Documentation** is a **fictional project** created by **Stuti Sanghvi** for portfolio and educational purposes.
 
-It is designed to demonstrate technical writing, content structuring, and documentation design skills using a simulated cybersecurity product.
-
-***
-
-#### 🔐 No Affiliation
-
-CyberShield Security Suite and its components, logos, and references are **imaginary and not associated with any real company, software, or organization**. Any resemblance to actual products, systems, or brand names is purely coincidental.
+It is intended to demonstrate skills in technical writing, information architecture, and documentation design using a simulated cybersecurity product.
 
 ***
 
-#### 🧩 Content Ownership
+### 🔐 No Affiliation
 
-All text, structure, and formatting within this documentation are original works by **Stuti Sanghvi**, created solely for showcasing professional capabilities in **technical communication and content strategy**.
+CyberShield Security Suite and all associated names, components, descriptions, and visuals are **entirely fictional**.
 
-Source code snippets, examples, and product features included herein are illustrative only and do not represent functioning software.
-
-***
-
-#### 💡 Usage
-
-This documentation may be shared for **portfolio review, learning, or reference purposes**. It is **not intended for commercial distribution or deployment**.
+They are **not affiliated with or endorsed by** any real company, product, or organization.\
+Any resemblance to actual technologies or brand names is purely coincidental.
 
 ***
 
-#### 💬 Author’s Note
+### 🧩 Content Ownership
 
-> This portfolio demonstrates my approach to creating clear, structured, and user-friendly documentation for developer and end-user audiences.\
-> It should be viewed as a sample of writing style, tone, and organization — not as real product documentation.
+All text, structure, formatting, and documentation design elements are **original works** created by **Stuti Sanghvi**.
+
+Source code samples, feature descriptions, and product scenarios are **illustrative only** and do not represent real or functioning software.
+
+***
+
+### 💡 Usage Guidelines
+
+This documentation may be used for:
+
+* Portfolio review
+* Learning reference
+* Documentation practice
+
+It is **not intended** for:
+
+* Commercial distribution
+* Real-world integration
+* Product deployment
+* Use within any actual cybersecurity system
+
+***
+
+### 💬 Author’s Note
+
+This project reflects my approach to creating clear, structured, and user-focused documentation for both developer and end-user audiences.\
+It should be viewed as a **sample of writing style, tone, and organization** — not as documentation for a real product.
 
 ***
 
