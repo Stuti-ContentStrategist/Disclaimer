@@ -1,8 +1,9 @@
 # Disclaimer
 
-### 📘 Purpose of This Documentation
+### 🎯 Purpose of This Documentation
 
-The **CyberShield Security Suite SDK Documentation** is a **fictional project** created by **Stuti Sanghvi** for **portfolio and educational purposes**.\
+The **CyberShield Security Suite SDK Documentation** is a **fictional project** created by **Stuti Sanghvi** for **portfolio and educational purposes**.
+
 It is designed to demonstrate technical writing, content structuring, and documentation design skills using a simulated cybersecurity product.
 
 ***
